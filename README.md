@@ -10,4 +10,4 @@ x, y and z buttons are used to toggle rotations around the respective axes (i.e.
 
 ## Screenshot:
 
-![Capture](https://user-images.githubusercontent.com/84128922/136684445-1fdd54a0-3cc8-485f-9e2a-a22131fb49ac.PNG)
+![image](https://user-images.githubusercontent.com/84128922/136689533-14314a86-6865-47d9-8f67-e61dfab6510d.png)
